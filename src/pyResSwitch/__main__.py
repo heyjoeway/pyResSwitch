@@ -3,7 +3,7 @@ import win32api
 import win32con
 from typing import OrderedDict
 
-from importlib_metadata import functools
+import functools
 import pystray
 
 from PIL import Image, ImageDraw
