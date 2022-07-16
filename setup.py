@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="pyResSwitch-heyjoeway",
-    version="0.1.0",
+    version="0.1.1",
     author="Joseph Judge",
     author_email="joe@jojudge.com",
     description="System tray resolution switcher for Windows",
